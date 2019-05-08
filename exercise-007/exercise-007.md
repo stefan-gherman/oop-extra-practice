@@ -4,6 +4,8 @@ The purpose of this exercise is to lead you through all the basic concepts in OO
 
 ## Description
 
+### Java
+
 Create the `Circle` class using the UML diagram below:
 
 ![The Circle class](img/ExerciseOOP_Circle.png "The Circle class")
@@ -14,3 +16,7 @@ This is just a skeleton of our application, now it is time to follow the instruc
 ## Related resources
 
 - [http://www.uml-diagrams.org/class-diagrams-overview.html](http://www.uml-diagrams.org/class-diagrams-overview.html)
+
+### C&#35;
+
+Unfortunately this assignment is not available in C&#35; yet but you can try to make it based on the Java description. UML diagrams are language-independent and these languages are similar so it's not an impossible task. ;)
