@@ -1,0 +1,13 @@
+/mnt/7d45c543-fc06-4310-b70a-2a9aa2e43a54/Projects/codecool/java/stefan-gherman/exercise-003/Exercise3/bin/Debug/netcoreapp3.1/Exercise3
+/mnt/7d45c543-fc06-4310-b70a-2a9aa2e43a54/Projects/codecool/java/stefan-gherman/exercise-003/Exercise3/bin/Debug/netcoreapp3.1/Exercise3.deps.json
+/mnt/7d45c543-fc06-4310-b70a-2a9aa2e43a54/Projects/codecool/java/stefan-gherman/exercise-003/Exercise3/bin/Debug/netcoreapp3.1/Exercise3.runtimeconfig.json
+/mnt/7d45c543-fc06-4310-b70a-2a9aa2e43a54/Projects/codecool/java/stefan-gherman/exercise-003/Exercise3/bin/Debug/netcoreapp3.1/Exercise3.runtimeconfig.dev.json
+/mnt/7d45c543-fc06-4310-b70a-2a9aa2e43a54/Projects/codecool/java/stefan-gherman/exercise-003/Exercise3/bin/Debug/netcoreapp3.1/Exercise3.dll
+/mnt/7d45c543-fc06-4310-b70a-2a9aa2e43a54/Projects/codecool/java/stefan-gherman/exercise-003/Exercise3/bin/Debug/netcoreapp3.1/Exercise3.pdb
+/mnt/7d45c543-fc06-4310-b70a-2a9aa2e43a54/Projects/codecool/java/stefan-gherman/exercise-003/Exercise3/obj/Debug/netcoreapp3.1/Exercise3.csprojAssemblyReference.cache
+/mnt/7d45c543-fc06-4310-b70a-2a9aa2e43a54/Projects/codecool/java/stefan-gherman/exercise-003/Exercise3/obj/Debug/netcoreapp3.1/Exercise3.csproj.CoreCompileInputs.cache
+/mnt/7d45c543-fc06-4310-b70a-2a9aa2e43a54/Projects/codecool/java/stefan-gherman/exercise-003/Exercise3/obj/Debug/netcoreapp3.1/Exercise3.AssemblyInfoInputs.cache
+/mnt/7d45c543-fc06-4310-b70a-2a9aa2e43a54/Projects/codecool/java/stefan-gherman/exercise-003/Exercise3/obj/Debug/netcoreapp3.1/Exercise3.AssemblyInfo.cs
+/mnt/7d45c543-fc06-4310-b70a-2a9aa2e43a54/Projects/codecool/java/stefan-gherman/exercise-003/Exercise3/obj/Debug/netcoreapp3.1/Exercise3.dll
+/mnt/7d45c543-fc06-4310-b70a-2a9aa2e43a54/Projects/codecool/java/stefan-gherman/exercise-003/Exercise3/obj/Debug/netcoreapp3.1/Exercise3.pdb
+/mnt/7d45c543-fc06-4310-b70a-2a9aa2e43a54/Projects/codecool/java/stefan-gherman/exercise-003/Exercise3/obj/Debug/netcoreapp3.1/Exercise3.genruntimeconfig.cache
