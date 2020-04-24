@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/mnt/7d45c543-fc06-4310-b70a-2a9aa2e43a54/Projects/codecool/java/stefan-gherman/exercise-004/Exercise4/Exercise4.csproj": {}
+  },
+  "projects": {
+    "/mnt/7d45c543-fc06-4310-b70a-2a9aa2e43a54/Projects/codecool/java/stefan-gherman/exercise-004/Exercise4/Exercise4.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/7d45c543-fc06-4310-b70a-2a9aa2e43a54/Projects/codecool/java/stefan-gherman/exercise-004/Exercise4/Exercise4.csproj",
+        "projectName": "Exercise4",
+        "projectPath": "/mnt/7d45c543-fc06-4310-b70a-2a9aa2e43a54/Projects/codecool/java/stefan-gherman/exercise-004/Exercise4/Exercise4.csproj",
+        "packagesPath": "/home/stefan_g/.nuget/packages/",
+        "outputPath": "/mnt/7d45c543-fc06-4310-b70a-2a9aa2e43a54/Projects/codecool/java/stefan-gherman/exercise-004/Exercise4/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/stefan_g/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
