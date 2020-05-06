@@ -1,0 +1,13 @@
+/mnt/7d45c543-fc06-4310-b70a-2a9aa2e43a54/Projects/codecool/java/stefan-gherman/exercise-007/Exercise7/CSharp/obj/Debug/netcoreapp3.1/CSharp.csprojAssemblyReference.cache
+/mnt/7d45c543-fc06-4310-b70a-2a9aa2e43a54/Projects/codecool/java/stefan-gherman/exercise-007/Exercise7/CSharp/obj/Debug/netcoreapp3.1/CSharp.csproj.CoreCompileInputs.cache
+/mnt/7d45c543-fc06-4310-b70a-2a9aa2e43a54/Projects/codecool/java/stefan-gherman/exercise-007/Exercise7/CSharp/obj/Debug/netcoreapp3.1/CSharp.AssemblyInfoInputs.cache
+/mnt/7d45c543-fc06-4310-b70a-2a9aa2e43a54/Projects/codecool/java/stefan-gherman/exercise-007/Exercise7/CSharp/obj/Debug/netcoreapp3.1/CSharp.AssemblyInfo.cs
+/mnt/7d45c543-fc06-4310-b70a-2a9aa2e43a54/Projects/codecool/java/stefan-gherman/exercise-007/Exercise7/CSharp/bin/Debug/netcoreapp3.1/CSharp
+/mnt/7d45c543-fc06-4310-b70a-2a9aa2e43a54/Projects/codecool/java/stefan-gherman/exercise-007/Exercise7/CSharp/bin/Debug/netcoreapp3.1/CSharp.deps.json
+/mnt/7d45c543-fc06-4310-b70a-2a9aa2e43a54/Projects/codecool/java/stefan-gherman/exercise-007/Exercise7/CSharp/bin/Debug/netcoreapp3.1/CSharp.runtimeconfig.json
+/mnt/7d45c543-fc06-4310-b70a-2a9aa2e43a54/Projects/codecool/java/stefan-gherman/exercise-007/Exercise7/CSharp/bin/Debug/netcoreapp3.1/CSharp.runtimeconfig.dev.json
+/mnt/7d45c543-fc06-4310-b70a-2a9aa2e43a54/Projects/codecool/java/stefan-gherman/exercise-007/Exercise7/CSharp/bin/Debug/netcoreapp3.1/CSharp.dll
+/mnt/7d45c543-fc06-4310-b70a-2a9aa2e43a54/Projects/codecool/java/stefan-gherman/exercise-007/Exercise7/CSharp/bin/Debug/netcoreapp3.1/CSharp.pdb
+/mnt/7d45c543-fc06-4310-b70a-2a9aa2e43a54/Projects/codecool/java/stefan-gherman/exercise-007/Exercise7/CSharp/obj/Debug/netcoreapp3.1/CSharp.dll
+/mnt/7d45c543-fc06-4310-b70a-2a9aa2e43a54/Projects/codecool/java/stefan-gherman/exercise-007/Exercise7/CSharp/obj/Debug/netcoreapp3.1/CSharp.pdb
+/mnt/7d45c543-fc06-4310-b70a-2a9aa2e43a54/Projects/codecool/java/stefan-gherman/exercise-007/Exercise7/CSharp/obj/Debug/netcoreapp3.1/CSharp.genruntimeconfig.cache
