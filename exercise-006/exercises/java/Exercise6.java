@@ -28,7 +28,7 @@ public class Exercise6 {
         }
 
         for (String key : sumsForCodes.keySet()) {
-           
+
             System.out.println(key + " " + sumsForCodes.get(key));
         }
 
